@@ -29,13 +29,14 @@ import reportWebVitals from './reportWebVitals';
 //import PassingCount from './chapter_12/PassingCount';
 //import Calculator from './chapter_12/Calculator';
 //import ProfileCard from './chapter_12/ProfileCard';
-import App from './client/App';
+//import App from './client/App';
+import WelcomeDialog from './WelcomeDialog';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <WelcomeDialog />
   </React.StrictMode>
   );
 
