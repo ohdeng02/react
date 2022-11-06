@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import './Specialization.css'
+import './WelcomeDialog.css'
 
 function Border(props) {
     return (
