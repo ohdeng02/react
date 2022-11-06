@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import './PassingCount.css'
+import './Specialization.css'
 
 function Border(props) {
     return (
